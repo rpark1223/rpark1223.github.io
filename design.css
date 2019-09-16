@@ -1,19 +1,21 @@
-h1, h2, h4, .section-header {
+body {
 	text-align: center;
+	background-color: coral;
+	font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
 }
 
 h2 {
 	font-style: italic;
 }
 
-.thicc {
-	font-weight: bold;
-}
-
 .interesting-info {
-	background-color: blue;
+	background-color: white;
 }
 
 table, th, td {
   border: 1px solid black;
+}
+
+ul {
+	text-align: left;
 }
