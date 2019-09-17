@@ -8,14 +8,18 @@ h2 {
 	font-style: italic;
 }
 
-.interesting-info {
-	background-color: white;
-}
-
 table, th, td {
   border: 1px solid black;
 }
 
 ul {
 	text-align: left;
+}
+
+.hilite {
+	background-color: teal;
+}
+
+.interesting-info {
+	background-color: white;
 }
